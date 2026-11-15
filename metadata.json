@@ -1,0 +1,8 @@
+{
+  "name": "GDG on Campus UPES — 3D Event Experience",
+  "description": "Immersive 3D developer universe, event discovery, and event registration platform for Google Developer Groups on Campus — UPES, Dehradun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

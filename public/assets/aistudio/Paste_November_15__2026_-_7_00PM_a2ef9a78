@@ -1,0 +1,1373 @@
+# ULTIMATE MASTER PROMPT
+# GDG ON CAMPUS UPES — IMMERSIVE 3D EVENT REGISTRATION EXPERIENCE
+
+## PROJECT VISION
+
+You are an award-winning creative developer, senior React engineer, expert Three.js developer, UI/UX architect, 3D motion designer, and frontend systems engineer.
+
+Your task is to DESIGN AND BUILD a complete, premium, cinematic, highly interactive 3D website for:
+
+**Google Developer Groups on Campus — University of Petroleum and Energy Studies (GDG on Campus UPES), Dehradun, India.**
+
+This must be a fully working website, not a static mockup, visual prototype, or ordinary event registration template.
+
+The experience should resemble an exceptionally designed interactive technology conference website, combining cinematic 3D storytelling with a polished event registration system.
+
+The entire website should feel like one connected digital universe.
+
+The website must be suitable for public presentation and deployment.
+
+### Primary creative objective
+
+Create an immersive GDG UPES developer universe where visitors experience:
+
+- A floating original GDG UPES logo.
+- A futuristic interconnected 3D technology world.
+- Orbital planets, floating code fragments, particles, glowing networks, and geometric objects.
+- Cinematic scroll-driven camera movements.
+- Sophisticated multi-layer parallax scrolling.
+- Premium interactive event discovery.
+- A three-step registration experience.
+- Smooth animated registration confirmation.
+- A functional participant management interface.
+
+The overall impression should be premium, technically sophisticated, futuristic, and professionally designed.
+
+**Do not build a generic website with a 3D object placed in the background. Build a genuine immersive 3D experience.**
+
+---
+
+# 1. OFFICIAL GDG UPES BRANDING AND CONTENT
+
+This website is exclusively for GDG on Campus UPES.
+
+It is not a general GDG website.
+
+### Official sources
+
+GDG UPES chapter:
+https://gdg.community.dev/gdg-on-campus-university-of-petroleum-and-energy-studies-dehradun-india/
+
+UPES official website:
+https://www.upes.ac.in/
+
+UPES student engagement:
+https://www.upes.ac.in/student-space/student-engagement
+
+### Research requirements
+
+Before building the website:
+
+1. Examine the official GDG UPES chapter page.
+2. Identify the official chapter name and description.
+3. Retrieve publicly available information about its activities.
+4. Identify genuine past and upcoming events.
+5. Identify verified social media and community links.
+6. Locate the original GDG UPES logo.
+7. Use authentic information wherever available.
+
+If internet access is unavailable, use the official links as source references and clearly identify any content requiring verification. Do not invent facts.
+
+### Original logo requirement — extremely important
+
+**Use the exact original GDG UPES logo.**
+
+Do not:
+
+- Redesign it.
+- Recreate it using approximate shapes.
+- Generate an AI interpretation.
+- Change its typography.
+- Change its colors.
+- Alter its proportions.
+- Replace it with another GDG chapter logo.
+
+The original logo must remain visually identical.
+
+It may be placed on a 3D glass panel, floating platform, or animated surface.
+
+The environment around the logo can rotate, glow, float, and move through 3D space.
+
+However, the logo artwork itself must remain unchanged.
+
+If the official logo cannot be reliably retrieved, create a clearly defined asset slot and use the original uploaded logo file when provided.
+
+Use appropriate brand attribution. Do not falsely claim that this website is officially commissioned or endorsed by Google or UPES.
+
+---
+
+# 2. PREMIUM VISUAL IDENTITY
+
+Create a sophisticated dark futuristic visual system.
+
+### Color palette
+
+Primary backgrounds:
+
+- Midnight Navy: #080B18
+- Deep Charcoal: #11121D
+- Dark Slate: #242631
+- Elevated Surface: #30313E
+
+Google-inspired accents:
+
+- Google Blue: #4285F4
+- Google Red: #EA4335
+- Google Yellow: #FBBC05
+- Google Green: #34A853
+
+Additional visual accents:
+
+- Electric Violet: #755CFF
+- Neon Blue: #5C67F9
+- Soft Cyan: #61D9FF
+
+Use Google's four colors intelligently within the 3D environment.
+
+Use blue-violet gradients for the registration experience, matching the supplied screenshot.
+
+### Typography
+
+Use premium modern typography such as:
+
+- Space Grotesk for major headings.
+- Inter for body text.
+- JetBrains Mono for small technical labels.
+
+Typography must remain consistent, balanced, and readable.
+
+Avoid excessive letter spacing, oversized paragraphs, and decorative fonts.
+
+### Visual techniques
+
+Implement:
+
+- Real-time 3D rendering.
+- Cinematic lighting.
+- Glassmorphism.
+- Physically inspired materials.
+- Soft bloom.
+- Ambient particles.
+- Perspective depth.
+- Floating surfaces.
+- Animated gradients.
+- Mouse-responsive 3D objects.
+- Scroll-based reveals.
+- Interactive card tilt.
+- Premium button micro-interactions.
+
+Avoid:
+
+- Generic SaaS layouts.
+- Excessive neon.
+- Random glowing borders.
+- Ordinary flat cards.
+- Unnecessary stock imagery.
+- Cluttered sections.
+- Large empty spaces without purpose.
+- Unreadable text.
+- Inconsistent animation styles.
+
+---
+
+# 3. GLOBAL 3D EXPERIENCE
+
+Build the public website as a continuous scroll-driven cinematic journey.
+
+Use:
+
+- Three.js.
+- React Three Fiber.
+- Drei.
+- GSAP.
+- ScrollTrigger.
+- Motion / Framer Motion.
+
+The background must not be a static image pretending to be 3D.
+
+Render actual interactive 3D objects using WebGL.
+
+### Developer universe
+
+Create an interconnected environment containing:
+
+- Abstract technology planets.
+- Orbital rings.
+- Glowing network nodes.
+- Animated connection lines.
+- Floating code fragments.
+- Glass geometric structures.
+- Soft particle fields.
+- Subtle light trails.
+- Developer-inspired holographic elements.
+- Floating technology symbols.
+
+The environment should look cohesive and carefully composed.
+
+Avoid filling the screen with random objects.
+
+### Camera behavior
+
+The camera must respond to scrolling.
+
+As the user scrolls:
+
+1. The camera gradually moves forward.
+2. Foreground elements pass closer to the viewer.
+3. Midground elements move at a different speed.
+4. Background elements shift slowly.
+5. The environment transitions naturally between sections.
+6. Important 3D objects become focal points.
+7. Text and content appear at carefully timed moments.
+
+Use actual 3D camera movement and depth-aware parallax.
+
+Avoid abrupt camera jumps.
+
+### Mouse interaction
+
+On desktop:
+
+- Subtle camera movement based on cursor position.
+- Interactive object rotation.
+- Smooth hover lighting.
+- Depth-responsive card tilts.
+- Soft magnetic button effects.
+
+On mobile:
+
+- Touch-friendly interaction.
+- Simplified camera movement.
+- Reduced particle complexity.
+- Stable scrolling.
+- Optimized WebGL performance.
+
+Respect prefers-reduced-motion and provide a graceful non-animated fallback.
+
+---
+
+# 4. SCENE ONE — CINEMATIC HERO
+
+Create an extraordinary fullscreen landing experience.
+
+### Background
+
+A dark futuristic developer universe with glowing nodes, orbital structures, floating geometry, and subtle digital particles.
+
+The background should feel deep and spacious.
+
+### Main 3D centerpiece
+
+Place the authentic GDG UPES logo in a prominent floating 3D composition.
+
+The original logo must remain visually unchanged.
+
+Possible presentation:
+
+- A floating glass panel carrying the logo.
+- A premium illuminated 3D display structure.
+- Orbiting geometric elements surrounding the logo.
+- Subtle reflective surfaces.
+- Soft Google-colored lighting.
+
+Animate the supporting 3D structure.
+
+The logo should gently float and respond to mouse movement.
+
+Do not rotate it so much that it becomes unreadable.
+
+### Hero text
+
+Small heading:
+
+"GOOGLE DEVELOPER GROUPS ON CAMPUS"
+
+Main heading:
+
+"GDG UPES"
+
+Primary tagline:
+
+"BUILD. CONNECT. INNOVATE."
+
+Supporting text:
+
+"Explore technology, collaborate with developers, and turn ideas into real-world impact."
+
+### Hero buttons
+
+Primary:
+
+"EXPLORE EVENTS"
+
+Secondary:
+
+"JOIN THE EXPERIENCE"
+
+Both buttons must function.
+
+Explore Events should smoothly navigate to the event discovery section.
+
+Join the Experience should navigate to the registration flow or an appropriate open event.
+
+### Additional interactions
+
+- Animated headline entrance.
+- Mouse-responsive 3D depth.
+- Floating particles.
+- Soft cursor lighting.
+- Animated scroll indicator.
+- Cinematic loading transition.
+
+The hero should immediately communicate a premium 3D experience.
+
+---
+
+# 5. SCENE TWO — THE DEVELOPER UNIVERSE
+
+When users scroll beyond the hero, the camera should move through the developer universe.
+
+The floating GDG UPES logo gradually moves into the background.
+
+Connected nodes and orbital objects pass around the camera.
+
+Create a seamless transition into the community introduction.
+
+### Typography
+
+Main heading:
+
+"MORE THAN A COMMUNITY."
+
+Secondary heading:
+
+"A UNIVERSE OF POSSIBILITIES."
+
+Supporting content should describe the actual GDG UPES community.
+
+### Visual interactions
+
+- Nodes connect dynamically.
+- Thin light trails animate.
+- Floating code symbols move through space.
+- Geometric structures rotate slowly.
+- Background lighting shifts subtly.
+- Text appears through staggered animation.
+
+Keep movement cinematic rather than chaotic.
+
+---
+
+# 6. SCENE THREE — ABOUT GDG ON CAMPUS UPES
+
+Build a premium About section using verified information from the official chapter.
+
+The section should introduce GDG UPES as a student developer community focused on learning, collaboration, and technology.
+
+Highlight relevant areas such as:
+
+- Software Development.
+- Artificial Intelligence.
+- Machine Learning.
+- Cloud Computing.
+- Web Development.
+- Hackathons.
+- Technical Workshops.
+- Peer-to-Peer Learning.
+- Developer Collaboration.
+
+Do not claim that any specific program is currently active unless verified.
+
+### Design
+
+Use floating glass information panels arranged in a balanced 3D composition.
+
+Each card should have:
+
+- Subtle depth.
+- Soft shadow.
+- Controlled lighting.
+- Hover response.
+- Animated entrance.
+- Clean typography.
+
+Create visual connections between panels using animated lines.
+
+Include an authentic GDG UPES identity element.
+
+### Community statistics
+
+Only display statistics when they can be verified from official public sources.
+
+Do not fabricate member counts, event counts, achievements, or partnerships.
+
+If live statistics cannot be retrieved reliably, omit them.
+
+---
+
+# 7. SCENE FOUR — IMMERSIVE EVENT DISCOVERY
+
+Create an interactive event discovery experience.
+
+The environment transitions into a premium 3D event gallery.
+
+### Event card design
+
+Each event card should have:
+
+- Dark glass surface.
+- Rounded corners.
+- Perspective depth.
+- Soft glowing edge lighting.
+- Mouse-responsive tilt.
+- Animated hover elevation.
+- Event category.
+- Event title.
+- Date and time.
+- Venue or online format.
+- Description.
+- Registration status.
+- Register or View Details button.
+
+Cards should enter through scroll-based 3D animations.
+
+### Real GDG UPES event information
+
+Use publicly verified GDG UPES events.
+
+Examples to research and verify:
+
+- AI Labs'26 Workshop: Google Cloud & AI/ML.
+- Ascend 2026.
+- Master the Cloud: Docker & Kubernetes Workshop.
+- GDG on Campus UPES Info Session.
+
+Display past events in an archive section.
+
+Do not allow registration for past events unless registration is explicitly reopened.
+
+### Upcoming events
+
+Retrieve genuine upcoming events from the official chapter page where available.
+
+If no upcoming events are officially announced, display:
+
+"Something exciting is on the horizon."
+
+"Stay connected for upcoming GDG UPES experiences."
+
+Do not invent upcoming official events.
+
+### Registration availability
+
+Registration must only be enabled for events configured as open.
+
+Create an editable local event configuration file so genuine events can be added without redesigning the website.
+
+Each event should support:
+
+- Unique ID.
+- Name.
+- Description.
+- Category.
+- Date.
+- Time.
+- Venue.
+- Registration status.
+- Fee type.
+- Fee amount.
+- Capacity, if applicable.
+
+Do not generate fictional official events to make the gallery appear populated.
+
+The event archive should remain visually impressive even if there are no upcoming events.
+
+---
+
+# 8. SCENE FIVE — ORIGINAL INTERACTIVE REGISTRATION DESIGN
+
+THIS SECTION IS EXTREMELY IMPORTANT.
+
+I am uploading a reference screenshot of the registration interface.
+
+You must recreate its design as closely as possible.
+
+Do not replace it with a generic form.
+
+### Preserve the reference design
+
+- Dark charcoal rounded registration card.
+- Deep navy surrounding environment.
+- Blue and purple decorative elements at the top.
+- Dark grey rounded input fields.
+- Premium minimalist typography.
+- Bright purple-to-blue gradient action button.
+- Soft shadows.
+- Elegant spacing.
+- Small secondary links.
+- Subtle glowing effects.
+
+The form must look extremely close to the screenshot.
+
+### 3D integration
+
+Place the registration interface within the larger developer universe.
+
+The registration card should feel like a floating glass panel.
+
+Add:
+
+- Gentle floating animation.
+- Subtle perspective depth.
+- Mouse-responsive tilt.
+- Soft gradient lighting.
+- Animated focus states.
+- Cinematic step transitions.
+
+However, keep input fields and text stable while users type.
+
+Do not sacrifice usability for animation.
+
+### Registration navigation
+
+The registration experience must consist of three distinct steps.
+
+Use one consistent visual design throughout.
+
+Do not create three unrelated form layouts.
+
+Display a refined three-step progress indicator.
+
+---
+
+# 9. REGISTRATION STEP ONE — PERSONAL DETAILS
+
+Heading:
+
+"PERSONAL DETAILS"
+
+Optional supporting text:
+
+"Let's get you registered."
+
+Fields:
+
+1. Full Name.
+2. Email Address.
+3. Phone Number.
+
+### Validation
+
+Full Name:
+
+- Required.
+- Trim unnecessary whitespace.
+- Minimum reasonable length.
+- Accept legitimate names with spaces and common punctuation.
+
+Email:
+
+- Required.
+- Validate email structure.
+- Normalize for duplicate checking.
+
+Phone:
+
+- Required.
+- Validate a 10-digit Indian mobile number for the initial version.
+- Allow formatting spaces without corrupting the stored value.
+
+Do not allow submission with invalid data.
+
+Show clear inline validation messages.
+
+### Primary button
+
+"CONTINUE"
+
+### Step transition
+
+When Continue is clicked:
+
+- The card subtly tilts backward.
+- A blue-purple light travels along its edges.
+- The 3D environment shifts slightly.
+- The next form slides into view.
+- The progress indicator advances.
+
+Preserve the original registration card styling.
+
+---
+
+# 10. REGISTRATION STEP TWO — UNIVERSITY DETAILS
+
+Heading:
+
+"UNIVERSITY DETAILS"
+
+Fields:
+
+1. University / College.
+2. Branch / Course.
+3. Year of Study.
+4. Selected GDG Event.
+
+### University
+
+Suggest UPES by default.
+
+Allow students from other universities when event eligibility permits.
+
+### Branch
+
+Provide a suitable selection of courses, including:
+
+- Computer Science & Engineering.
+- Electronics & Communication.
+- Mechanical Engineering.
+- Electrical Engineering.
+- Other Engineering.
+- Business / Management.
+- Other.
+
+Allow custom entry when Other is selected.
+
+### Year of study
+
+- First Year.
+- Second Year.
+- Third Year.
+- Fourth Year.
+- Fifth Year / Other, where applicable.
+
+### Selected event
+
+Automatically populate the event selected from the Events section.
+
+Allow changes only among events currently open for registration.
+
+### Buttons
+
+"BACK"
+
+"CONTINUE"
+
+### Requirements
+
+- Preserve information from Step One.
+- Validate required fields.
+- Maintain the original design.
+- Animate transitions smoothly.
+- Prevent accidental loss of form data when navigating backward.
+
+---
+
+# 11. REGISTRATION STEP THREE — FINAL REVIEW & PAYMENT STATUS
+
+Heading:
+
+"FINAL REVIEW"
+
+Supporting text:
+
+"Review your details before confirming."
+
+### Review panel
+
+Display:
+
+- Full Name.
+- Email Address.
+- Phone Number.
+- University.
+- Branch.
+- Year of Study.
+- Selected Event.
+- Event Date.
+- Event Venue.
+- Registration Fee.
+
+Use a beautiful dark glass summary card.
+
+Allow editing before final submission.
+
+### Payment handling
+
+Payment is conditional.
+
+#### Free events
+
+Display:
+
+"REGISTRATION FEE"
+
+"₹0 — FREE"
+
+Button:
+
+"CONFIRM REGISTRATION"
+
+Submitting should save the registration locally and show confirmation.
+
+#### Paid events
+
+Display the verified event fee.
+
+Do not create fake payment functionality.
+
+Do not collect card information.
+
+Do not show payment success without a real transaction.
+
+Since this version has no payment gateway, paid events must not be marked as paid or confirmed through a simulated transaction.
+
+Instead, display a polished message indicating that online payment registration is currently unavailable, or provide verified official external registration instructions where appropriate.
+
+### Registration submission
+
+Before saving:
+
+1. Validate all form fields again.
+2. Confirm that the selected event is open.
+3. Normalize the email address.
+4. Check for duplicate registration.
+5. Generate a unique registration ID.
+6. Save the record.
+7. Verify that saving succeeded.
+8. Show confirmation only after success.
+
+---
+
+# 12. REGISTRATION SUCCESS EXPERIENCE
+
+Create a premium cinematic success screen.
+
+### Animation sequence
+
+- The registration card moves slightly backward.
+- A glowing circular structure appears.
+- Blue and violet particles converge.
+- A luminous checkmark forms.
+- The environment briefly illuminates.
+- A success message appears with smooth motion.
+
+Use Google-inspired color accents subtly.
+
+### Confirmation text
+
+"REGISTRATION SUCCESSFUL"
+
+"You're officially registered for [Event Name]."
+
+### Confirmation details
+
+Display:
+
+- Participant Name.
+- Event Name.
+- Registration Reference ID.
+- Event Date.
+- Registration Status.
+
+### Buttons
+
+"BACK TO EVENTS"
+
+"VIEW REGISTRATION"
+
+### Important
+
+Only show success after a record has actually been saved.
+
+Do not generate fake confirmations.
+
+Do not claim that an email has been sent.
+
+The confirmation should accurately reflect the browser-local registration system.
+
+---
+
+# 13. REGISTRATION DATA STORAGE
+
+This is a frontend-first implementation.
+
+Do not implement Supabase, Firebase, server APIs, or a real database in this version.
+
+Use browser localStorage.
+
+### Required behavior
+
+- Save actual registration submissions.
+- Preserve records across page reloads in the same browser.
+- Load existing registrations when the application starts.
+- Prevent duplicate registrations.
+- Keep participant data consistent.
+- Handle malformed or unavailable localStorage gracefully.
+
+### Registration record structure
+
+Each record should include:
+
+- Registration ID.
+- Event ID.
+- Full Name.
+- Normalized Email.
+- Phone Number.
+- University.
+- Branch.
+- Year of Study.
+- Registration Timestamp.
+- Registration Status.
+
+### Duplicate registration logic
+
+Use the combination of normalized email address and event ID.
+
+One email may register for multiple different events.
+
+The same email must not register twice for the same event.
+
+Display a clear duplicate-registration message.
+
+### Data integrity
+
+Do not fabricate registration records.
+
+Do not automatically populate the database with participants.
+
+Do not generate fake registration counts.
+
+The participant list must initially be empty.
+
+All displayed statistics must come from real browser-local records.
+
+### Future architecture
+
+Create a clean data service layer so localStorage can later be replaced by Supabase without redesigning the UI.
+
+---
+
+# 14. PARTICIPANT MANAGEMENT INTERFACE
+
+Create a premium participant management page.
+
+This page should visually match the rest of the website.
+
+However, prioritize clarity and usability over heavy 3D animations.
+
+### Features
+
+- Total registered participants.
+- Event-wise registration counts.
+- Search by participant name.
+- Search by email address.
+- Filter by event.
+- Registration timestamps.
+- CSV download.
+- Empty-state design.
+
+### Visual design
+
+Use:
+
+- Dark charcoal background.
+- Refined glass cards.
+- Soft blue-violet lighting.
+- Clean data tables.
+- Smooth interactions.
+- Responsive layouts.
+
+### CSV export
+
+Export the actual locally stored registrations.
+
+Include appropriate column headers.
+
+Use correct CSV escaping for commas, quotes, and line breaks.
+
+The exported file should open correctly in Excel and Google Sheets.
+
+### Privacy and security
+
+Do not expose participant names, emails, or phone numbers in public-facing event cards or community sections.
+
+Since localStorage is not a secure shared database, do not claim the management interface is protected by real administrator authentication.
+
+Keep the participant management view separate from the main public experience.
+
+Do not create a fake password gate or pretend that frontend-only authentication provides actual security.
+
+Do not claim records are synchronized between devices.
+
+---
+
+# 15. ORIGINAL GDG LOGO — ANIMATION SYSTEM
+
+Use the unchanged GDG UPES logo as a recurring visual element.
+
+### Hero
+
+The logo floats within a sophisticated 3D environment.
+
+### Section transitions
+
+The logo may travel subtly between scenes, shrink into the background, or appear on an animated glass structure.
+
+### Registration
+
+The logo may appear as a subtle decorative element behind the form.
+
+### Confirmation
+
+The logo may appear alongside the registration success animation.
+
+### Footer
+
+Display the authentic logo clearly.
+
+### Rules
+
+Never distort the original logo.
+
+Never modify its artwork.
+
+Never generate a replacement.
+
+Animate the supporting 3D surfaces, camera, lighting, and surrounding objects instead.
+
+---
+
+# 16. ADVANCED PARALLAX SCROLLING
+
+Parallax scrolling is a defining feature of this website.
+
+It must be implemented carefully throughout the public experience.
+
+### Required effects
+
+1. Scroll-driven 3D camera movement.
+2. Foreground and background depth separation.
+3. Floating object movement.
+4. Scroll-triggered typography reveals.
+5. Smooth 3D section transitions.
+6. Perspective-based event cards.
+7. Interactive GDG logo movement.
+8. Subtle environment lighting transitions.
+9. Layered particles.
+10. Smooth transitions into registration.
+
+### Scrolling experience
+
+The user should feel like they are traveling through the GDG UPES developer universe.
+
+The website must not feel like ordinary sections simply fading into view.
+
+Use GSAP ScrollTrigger for coordinated animations.
+
+Avoid excessive scroll hijacking.
+
+Do not trap users in long animations.
+
+Allow normal scrolling and navigation.
+
+Respect reduced-motion preferences.
+
+---
+
+# 17. NAVIGATION DESIGN
+
+Create a premium sticky navigation bar.
+
+### Navigation items
+
+- Home.
+- About.
+- Events.
+- Register.
+- Community.
+
+Use the original GDG UPES logo in the navigation.
+
+### Design
+
+- Transparent or translucent dark background.
+- Subtle blur.
+- Refined typography.
+- Smooth hover effects.
+- Active section indication.
+- Responsive mobile menu.
+
+### Functionality
+
+All links must work.
+
+Navigation should smoothly scroll to the appropriate sections.
+
+Registration should open the correct flow.
+
+Avoid broken links and inactive buttons.
+
+---
+
+# 18. COMMUNITY SECTION AND FOOTER
+
+Create a visually elegant community section.
+
+Use verified GDG UPES information.
+
+Include:
+
+- Community mission.
+- Relevant technology interests.
+- Official chapter link.
+- Verified social media links.
+- UPES university reference.
+- Appropriate attribution.
+
+Do not invent social profiles or contact details.
+
+### Footer design
+
+The footer should feel like the final scene of the cinematic journey.
+
+Use:
+
+- Deep navy background.
+- Soft atmospheric particles.
+- Original GDG UPES logo.
+- Subtle orbital animation.
+- Refined typography.
+- Verified links.
+
+Avoid a generic corporate footer.
+
+---
+
+# 19. TECHNICAL STACK
+
+Use the following stack.
+
+### Frontend
+
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS.
+
+### 3D rendering
+
+- Three.js.
+- React Three Fiber.
+- Drei.
+
+### Animation
+
+- GSAP.
+- ScrollTrigger.
+- Motion / Framer Motion.
+
+### Storage
+
+- Browser localStorage.
+
+### Routing
+
+- React Router, if needed.
+
+### Deployment
+
+- Vercel.
+
+Do not add unnecessary dependencies.
+
+Use maintainable, modular components.
+
+---
+
+# 20. PROJECT STRUCTURE
+
+Use a clean project architecture.
+
+Suggested structure:
+
+src/
+  assets/
+    branding/
+    images/
+  components/
+    Navbar/
+    Hero/
+    About/
+    Events/
+    Registration/
+    Confirmation/
+    Participants/
+    Footer/
+  three/
+    DeveloperUniverse/
+    CameraRig/
+    LogoDisplay/
+    OrbitalObjects/
+    NetworkNodes/
+    Particles/
+    Lighting/
+  pages/
+    Home/
+    Register/
+    Participants/
+  hooks/
+  services/
+    registrationService/
+    eventService/
+  data/
+    events/
+  types/
+  utils/
+  styles/
+
+public/
+  assets/
+
+Keep the registration data service independent from the UI.
+
+Keep the 3D scene modular.
+
+Avoid putting the entire application into one enormous component.
+
+---
+
+# 21. PERFORMANCE REQUIREMENTS
+
+The website must remain smooth and responsive.
+
+### Desktop
+
+Provide the full 3D experience with optimized rendering.
+
+### Mobile
+
+Reduce GPU-heavy effects.
+
+Use:
+
+- Adaptive pixel ratio.
+- Lower particle counts.
+- Simplified geometry.
+- Optimized textures.
+- Reduced post-processing.
+- Touch-friendly interactions.
+
+### General requirements
+
+- Lazy-load heavy 3D assets.
+- Avoid unnecessary rerenders.
+- Dispose of unused Three.js resources.
+- Keep animations efficient.
+- Prevent layout shifts.
+- Prevent horizontal overflow.
+- Ensure form fields remain usable.
+- Provide loading states.
+- Support reduced-motion preferences.
+- Provide graceful WebGL fallback.
+
+Prioritize a polished experience on mid-range laptops and Android devices.
+
+---
+
+# 22. ACCESSIBILITY AND USABILITY
+
+Despite the cinematic design, the website must remain practical.
+
+Requirements:
+
+- Keyboard-accessible navigation.
+- Clearly labeled form fields.
+- Visible focus indicators.
+- Readable text contrast.
+- Accessible validation errors.
+- Responsive input controls.
+- Proper heading hierarchy.
+- Reduced-motion support.
+- Screen-reader-friendly form structure.
+- No essential information available only through animation.
+
+Keep form text and buttons in real HTML.
+
+Do not render important interactive forms entirely inside a WebGL canvas.
+
+---
+
+# 23. STRICT DESIGN RULES
+
+Do not:
+
+- Generate fake participants.
+- Add sample registration records.
+- Add fabricated event statistics.
+- Invent official GDG UPES announcements.
+- Create fake payment confirmations.
+- Add nonfunctional buttons.
+- Create fake authentication.
+- Present browser-local data as cloud-synchronized.
+- Redesign the original registration screenshot.
+- Replace the original GDG UPES logo.
+- Use a generic website template.
+- Reduce the website to a static landing page.
+- Replace genuine 3D rendering with only CSS animations.
+- Add unnecessary popups.
+- Add excessive neon effects.
+- Sacrifice mobile usability.
+- Add visible "Demo", "Prototype", "MVP", or "Assignment Project" labels.
+
+The public-facing website should feel like a finished premium product.
+
+Do not hide technical limitations behind false claims.
+
+---
+
+# 24. DEVELOPMENT SEQUENCE
+
+Implement the website in the following order.
+
+### Phase 1 — Design system
+
+Establish typography, colors, spacing, layout, and reusable components.
+
+### Phase 2 — Cinematic hero
+
+Build the 3D developer universe and authentic GDG UPES logo centerpiece.
+
+### Phase 3 — Parallax environment
+
+Implement continuous scroll-driven camera movement and transitions.
+
+### Phase 4 — Community content
+
+Add authentic GDG UPES information and premium floating panels.
+
+### Phase 5 — Event gallery
+
+Create interactive event cards and genuine event information.
+
+### Phase 6 — Registration design
+
+Recreate the uploaded registration screenshot accurately.
+
+### Phase 7 — Three-step registration
+
+Implement Personal Details, University Details, and Final Review.
+
+### Phase 8 — Registration logic
+
+Add validation, localStorage persistence, duplicate prevention, and confirmation.
+
+### Phase 9 — Participant management
+
+Add search, filters, registration counts, and CSV export.
+
+### Phase 10 — Optimization
+
+Improve responsiveness, accessibility, animation performance, and loading behavior.
+
+### Phase 11 — Testing
+
+Test all registration flows and interactive features.
+
+### Phase 12 — Deployment readiness
+
+Ensure the project builds successfully and can be deployed to Vercel.
+
+---
+
+# 25. REQUIRED FUNCTIONAL TESTS
+
+Before considering the project complete, verify:
+
+1. The website loads without runtime errors.
+2. The 3D hero renders correctly.
+3. The original GDG UPES logo is preserved.
+4. Parallax scrolling works smoothly.
+5. Navigation links work.
+6. Event cards open correct details.
+7. Registration opens for eligible events.
+8. Required fields are validated.
+9. Invalid emails are rejected.
+10. Invalid phone numbers are rejected.
+11. Back and Continue preserve form values.
+12. Final review shows accurate information.
+13. Duplicate email registrations for the same event are blocked.
+14. Different events can accept the same email.
+15. Registrations persist after browser refresh.
+16. Successful registrations show accurate confirmation.
+17. Participant search works.
+18. Event filters work.
+19. CSV export contains actual records.
+20. No fake participant records appear.
+21. Mobile layouts work.
+22. Reduced-motion fallback works.
+23. Paid events do not falsely claim payment success.
+24. The production build completes successfully.
+25. The deployed application supports direct navigation and refresh on its routes.
+
+---
+
+# 26. FINAL QUALITY STANDARD
+
+The website should feel like an exceptionally crafted, premium technology experience.
+
+The 3D developer universe must be immersive.
+
+The original GDG UPES logo must remain authentic.
+
+The parallax scrolling must feel cinematic.
+
+The event gallery must feel interactive.
+
+The registration interface must closely match my supplied screenshot.
+
+The three-step form must feel seamless.
+
+The confirmation experience must feel polished.
+
+The participant management system must genuinely function.
+
+The mobile experience must remain smooth.
+
+The final result should be suitable for a professional portfolio and a public-facing technical community showcase.
+
+---
+
+# 27. FINAL EXECUTION INSTRUCTIONS
+
+Now implement the complete working application.
+
+Do not merely describe the design.
+
+Do not produce only a visual mockup.
+
+Do not stop after building the landing page.
+
+Build all required pages, components, animations, and registration functionality.
+
+Use the uploaded registration screenshot as the authoritative visual reference for the registration interface.
+
+Use the original GDG UPES logo asset without modifying its artwork.
+
+Use authentic publicly available GDG UPES information.
+
+If official assets or event details are unavailable, do not fabricate replacements. Keep the relevant content configurable and request the missing source.
+
+Prioritize:
+
+1. Authentic GDG UPES identity.
+2. Premium cinematic 3D design.
+3. Continuous parallax scrolling.
+4. Original screenshot-inspired registration interface.
+5. Fully functional three-step registration.
+6. Accurate local registration persistence.
+7. Participant search and CSV export.
+8. Mobile responsiveness.
+9. Clean, maintainable code.
+10. Vercel deployment readiness.
+
+**BUILD A COMPLETE, IMMERSIVE, PREMIUM 3D GDG ON CAMPUS UPES EVENT REGISTRATION WEBSITE THAT FEELS LIKE A FINISHED PRODUCT.**
